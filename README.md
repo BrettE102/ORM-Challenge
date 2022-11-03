@@ -1,4 +1,4 @@
-## E-Commerce Back-end
+## E-Commerce Back-end 
 the back-end for this project was built using Express.js, Sequelize, and MySQL.
 
 # Description 
@@ -46,7 +46,7 @@ To run locally:
 
 # Usage
 
-https://drive.google.com/file/d/14XjwNbJawkXBsQoUlBKSOKY3fs51mmUY/view
+https://watch.screencastify.com/v/8r5EYAiG2cULaNZRXULU
 
 # License
 MIT License
